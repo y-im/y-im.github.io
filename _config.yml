@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yoonjin Im"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Environment and Resources at University of Wisconsin-Madison"
   location         : "Madison, WI"
-  institution      : "Nelson Institute, UW-Madison"
-  url              : # URL
+  employer         : "Nelson Institute, UW-Madison"
+  uri              : # URL
   email            : "yoonjin.im@wisc.edu" 
 
   # Academic websites
