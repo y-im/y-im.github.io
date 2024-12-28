@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Yoonjin Im"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at UW-Madison"
+  bio              : "Ph.D. in Environment and Resources at University of Wisconsin-Madison"
   location         : "Madison, WI"
-  employer         : "University of Wisconsin Madison"
-  uri              : # URL
+  institution      : "Nelson Institute, UW-Madison"
+  url              : # URL
   email            : "yoonjin.im@wisc.edu" 
 
   # Academic websites
