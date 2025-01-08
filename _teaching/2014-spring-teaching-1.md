@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Envir St 349: Climate Change Governance"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: # /teaching/2014-spring-teaching-1
+venue: "UW-Madison, Spring 2025"
+date: # Spring 2025
+location: "Madison, WI"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
